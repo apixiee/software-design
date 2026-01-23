@@ -37,7 +37,7 @@
             // 
             listBoxResults.BackColor = Color.Bisque;
             listBoxResults.FormattingEnabled = true;
-            listBoxResults.Location = new Point(355, 94);
+            listBoxResults.Location = new Point(354, 108);
             listBoxResults.Name = "listBoxResults";
             listBoxResults.Size = new Size(339, 264);
             listBoxResults.TabIndex = 0;
@@ -45,7 +45,7 @@
             // btnSort
             // 
             btnSort.BackColor = Color.Peru;
-            btnSort.Location = new Point(118, 192);
+            btnSort.Location = new Point(118, 188);
             btnSort.Name = "btnSort";
             btnSort.Size = new Size(134, 47);
             btnSort.TabIndex = 1;
